@@ -1,32 +1,16 @@
 {
   "streams": [
     {
-      "title": "asds",
-      "description": "asda",
+      "title": "New stream",
+      "description": "A stream",
+      "userId": "106513797367387278107",
       "id": 1
     },
     {
-      "title": "wqre",
-      "description": "ewr",
+      "title": "Another stream",
+      "description": "Steeeeaaaammmm",
+      "userId": "106513797367387278107",
       "id": 2
-    },
-    {
-      "title": "Ian",
-      "description": "Leggett",
-      "userId": "106513797367387278107",
-      "id": 3
-    },
-    {
-      "title": "Hello",
-      "description": "World",
-      "userId": "106513797367387278107",
-      "id": 4
-    },
-    {
-      "title": "Hello",
-      "description": "World",
-      "userId": "106513797367387278107",
-      "id": 5
     }
   ]
 }
